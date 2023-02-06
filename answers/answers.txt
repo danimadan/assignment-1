@@ -1,0 +1,16 @@
+4. /Users/danimadan/Desktop/GitHub/assignment-1/answers
+5. -a 
+6. ls directory name
+7. rm is dangerous because it deletes the file from 
+everywhere such that 
+it is not recoverable. It is gone forever. It could be dangerous if you 
+accidentally delete the wrong thing
+11. cd ~/Desktop/GitHub/assignment-1/assignment-1-main-main/data/
+12. wc -w *.csv | sort -nr | head -n 3
+13. 
+/Users/danimadan/Desktop/GitHub/assignment-1/answers/results/my_script.sh 
+filename.csv
+14. unzip *.zip
+15. rm -i *.zip
+16. cp annual_aqi_by_county_20*.csv 
+/Users/danimadan/Desktop/GitHub/assignment-1/answers/results/
